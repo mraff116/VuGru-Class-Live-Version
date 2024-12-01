@@ -30,7 +30,7 @@ function Login() {
   return (
     <div className="max-w-md mx-auto pt-16">
       <h1 className="text-4xl font-bold mb-8 text-center text-orange-500">
-        Welcome Back
+       Hey Welcome Back
       </h1>
 
       {error && (
